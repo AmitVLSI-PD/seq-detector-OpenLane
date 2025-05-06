@@ -19,8 +19,3 @@ A Mealy FSM designed to detect the sequence "1010" using OpenLane v1.1.1 with th
 
 ## Layout
 ![Layout](seq_detector_layout.png)
-
-## FSM Transitions
-The FSM transitions for the sequence "1010" are shown below:
-
-![FSM Transitions](fsm_transitions.gif)
