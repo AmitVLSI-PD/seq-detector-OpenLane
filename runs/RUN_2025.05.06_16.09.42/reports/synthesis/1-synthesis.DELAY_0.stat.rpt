@@ -1,0 +1,22 @@
+
+63. Printing statistics.
+
+=== seq_detector_mealy ===
+
+   Number of wires:                 14
+   Number of wire bits:             14
+   Number of public wires:           8
+   Number of public wire bits:       8
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 11
+     sky130_fd_sc_hd__and3b_2        1
+     sky130_fd_sc_hd__buf_1          3
+     sky130_fd_sc_hd__dfrtp_2        2
+     sky130_fd_sc_hd__inv_2          3
+     sky130_fd_sc_hd__nand3b_2       1
+     sky130_fd_sc_hd__o21ai_2        1
+
+   Chip area for module '\seq_detector_mealy': 105.100800
+

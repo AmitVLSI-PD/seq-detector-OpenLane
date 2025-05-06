@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<report-database>
+    <categories/>
+    <cells>
+        <cell>
+            <name>seq_detector_mealy</name>
+        </cell>
+    </cells>
+    <items/>
+</report-database>
